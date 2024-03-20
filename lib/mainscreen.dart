@@ -68,7 +68,13 @@ class Mainscreen extends StatelessWidget {
                 SizedBox(height: 20),
                 ElevatedButton(
                   onPressed: () {
-                    // Add the logic for changing the language here
+                  // Add the logic for changing the language here
+                  // this is future scope You have to use Localizations given from Flutter. You have to use custom delegate 
+                  // and JSON files for your supported languages. Implement it by using bloc Steps to follow,
+                  // 1. Create a folder assets/languages/ in the root folder
+                  // 2. Create JSON files for your supported languages. Like: en.json, es.json
+                // 3. Create a key, value pairs for your strings in each file accordingly with their specific languages strings.
+                // 4. In main.dart create default locale, supportedLocales and localizationsDelegates.
                   },
                   child: Text("Change Language"),
                 ),
