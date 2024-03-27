@@ -50,9 +50,9 @@ This app can be enhanced with the inclusion of more datasets to incorporate data
 ## Have a Glance at SoWhat Application :camera:
 
 <img width="304" src="https://github.com/sonali8434/Real-time-crop-and-fertilizer-prediction/blob/master/assets/Mainpage.png">
-![MainPage](https://github.com/sonali8434/Real-time-crop-and-fertilizer-prediction/blob/master/assets/Mainpage.png)
-![Crop Prediction Feature](https://github.com/sonali8434/Real-time-crop-and-fertilizer-prediction/blob/master/assets/Crop%20prediction%20feature.png)
-![Fertilizer Prediction Feature](https://github.com/sonali8434/Real-time-crop-and-fertilizer-prediction/blob/master/assets/Crop%20prediction%20feature.png)
+<img width="304" src="https://github.com/sonali8434/Real-time-crop-and-fertilizer-prediction/blob/master/assets/Crop%20prediction%20feature.png">
+<img width="304" src="https://github.com/sonali8434/Real-time-crop-and-fertilizer-prediction/blob/master/assets/Crop%20prediction%20feature.png">
+
 
 
 
