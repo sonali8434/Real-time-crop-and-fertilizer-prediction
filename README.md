@@ -16,7 +16,7 @@ This app takes input of Nitrogen content, Phosphorus content, Potassium content,
 
 ### Technologies Used :computer:
 
-- Decision Forest ML model with 99% accuracy
+- Decision Tree ML model with 99% accuracy
 - Python, Numpy, Pandas
 - Flutter
 - Dart
