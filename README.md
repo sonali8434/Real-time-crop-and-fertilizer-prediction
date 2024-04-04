@@ -4,7 +4,7 @@ Crop and Fertilizer Prediction Application
 
 ## Overview :bulb:
 
-The name of the SoWhat app suggests a question: "Sow What?" which is prevalent among farmers regarding what to sow on a particular land. This app aims to act as an answer to this long-standing question. As mentioned before, the app accurately predicts which crop and fertilizer are suitable to be grown in the particular soil. This application utilizes Machine Learning to make predictions and integrates the ML model into a mobile app using Flutter, TensorFlow, and TensorFlow Lite. The app aims to ease the decision-making process for farmers.
+The name of the SoWhat app suggests a question: "Sow What?" which is prevalent among farmers regarding what to sow on a particular land. This app aims to act as an answer to this long-standing question.The app accurately predicts which crop and fertilizer are suitable to be grown in the particular soil. This application utilizes Machine Learning to make predictions and integrates the ML model into a mobile app using Flutter, TensorFlow, and TensorFlow Lite. The app aims to ease the decision-making process for farmers.
 
 ## Inspiration :seedling:
 
@@ -35,7 +35,7 @@ This app takes input of Nitrogen content, Phosphorus content, Potassium content,
 
 ## Future Scope :telescope:
 
-This app can be enhanced with the inclusion of more datasets to incorporate data of a greater variety of crops. This will result in the expansion of the prediction area and can be helpful for more and more farmers. Additionally, we can include video guidance on sustainable practices by experts for better understanding by farmers.
+This app can be enhanced by including more datasets to incorporate data from a greater variety of crops. This would result in the expansion of the prediction area and could be helpful for more farmers. Additionally, we can add a feature to change the language, which would provide farmers with the privilege to use this application in different languages. Furthermore, we can include video guidance on sustainable practices by experts to better educate farmers.
 
 ## Instructions to Use App :scroll:
 
